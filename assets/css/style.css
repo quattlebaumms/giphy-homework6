@@ -1,0 +1,9 @@
+body {
+  background-image: url("../images/white-waves.png");
+  font-family: "Nunito", sans-serif;
+}
+
+.jumbotron {
+  background-color: teal;
+  color: white;
+}
